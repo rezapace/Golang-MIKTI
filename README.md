@@ -11,3 +11,10 @@ projek: Mirip dengan repositori "miniprojek" yang telah dijelaskan sebelumnya, b
 ujian: Bagian ini berisi file Go (main.go), file PDF (Golang Quiz MIKTI MSIB🎉.pdf), dan file teks (output.txt), yang mungkin berkaitan dengan kuis atau ujian pemrograman Go.
 
 Secara keseluruhan, repositori ini menampilkan berbagai aplikasi dan latihan yang beragam dalam Go, mulai dari aplikasi kasir sederhana hingga sistem pengenalan wajah, serta materi ujian atau kuis terkait Go.
+
+
+- [x] [Golang](https://golang.org/)
+- [x] [Webkumal](https://webkumal.com/)
+- [x] [Gclass]([https://golang.org/](https://classroom.google.com/u/0/c/NjE4Mjg4MDU2NTAx)https://classroom.google.com/u/0/c/NjE4Mjg4MDU2NTAx)
+- [x] [Kampus Merdeka]([https://webkumal.com](https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/3b2cbbc6-3926-4b50-8bc9-061ed375ff2e/5ff69c75-e9c4-11ed-8879-920d232eda71)https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/3b2cbbc6-3926-4b50-8bc9-061ed375ff2e/5ff69c75-e9c4-11ed-8879-920d232eda71)
+- [x] [Mikti](https//mikti.id)
